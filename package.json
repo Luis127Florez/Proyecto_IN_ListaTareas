@@ -1,0 +1,15 @@
+{
+  "name": "proyecto_in_listatareas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "node src/index.js"
+  },
+  "author": "luisf",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
